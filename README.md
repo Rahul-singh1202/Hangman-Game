@@ -1,4 +1,3 @@
-# PU_Project-01
 To run this game you need following python libraries:
 1) tkinter
 2) PIL
